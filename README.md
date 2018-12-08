@@ -1,5 +1,5 @@
 # COMP-229-TeamProject
-An e-commerce site for musical instruments.
+Troubadour: An e-commerce site for musical instruments.
 
 Basic guide to collaborating on Github:
 
